@@ -1,2 +1,3 @@
 # Picoloris
-For Pi network amd for all comunyti
+For Pi network and for all comunyti
+Read me
